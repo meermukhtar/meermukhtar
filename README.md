@@ -1,6 +1,7 @@
 <h3 align="left">About Me</h3>
+<h1>👋 Hi, I'm Muhammad Ameer Mukhtar</h1>
+<p align="left">A passionate Full Stack Developer specializing in Mobile App Development with Flutter and Firebase. I also have a strong background in Web Development using the MERN Stack.</p>
 
-<p align="left">👋 Hi, I'm Muhammad Ameer Mukhtar, a passionate Full Stack Developer specializing in Mobile App Development with Flutter and Firebase. I also have a strong background in Web Development using the MERN Stack.</p>
 
 <p>- 🔭 I’m currently working on a **Cloud-based POS System for small retailers**.</p>
 <p>- 🌱 I’m currently learning **Machine Learning**, **Python**, **Django**, and **Flask**.</p>
