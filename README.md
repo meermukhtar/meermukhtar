@@ -1,28 +1,27 @@
 <h3 align="left">About Me</h3>
-<h1>👋 Hi, I'm Muhammad Ameer Mukhtar</h1>
+<h3>👋 Hi, I'm Muhammad Ameer Mukhtar</h3>
 <p align="left">A passionate Full Stack Developer specializing in Mobile App Development with Flutter and Firebase. I also have a strong background in Web Development using the MERN Stack.</p>
 
+<p>- 🔭 I’m currently working on a <strong>Cloud-based POS System for small retailers</strong>.</p>
+<p>- 🌱 I’m currently learning <strong>Machine Learning</strong>, <strong>Python</strong>, <strong>Django</strong>, and <strong>Flask</strong>.</p>
+<p>- 📱 I specialize in <strong>Mobile Application Development</strong> with <strong>Flutter</strong> and <strong>Firebase</strong> for cloud-based solutions.</p>
+<p>- 💻 I develop <strong>Web Applications</strong> using the <strong>MERN Stack</strong> (MongoDB, Express.js, React, Node.js).</p>
+<p>- 🧑‍💻 I have experience with <strong>Hybrid Apps</strong> and love building cross-platform apps with <strong>Flutter</strong>.</p>
 
-<p>- 🔭 I’m currently working on a **Cloud-based POS System for small retailers**.</p>
-<p>- 🌱 I’m currently learning **Machine Learning**, **Python**, **Django**, and **Flask**.</p>
-<p>- 📱 I specialize in **Mobile Application Development** with **Flutter** and **Firebase** for cloud-based solutions.</p>
-<p>- 💻 I develop **Web Applications** using the **MERN Stack** (MongoDB, Express.js, React, Node.js).</p>
-<p>- 🧑‍💻 I have experience with **Hybrid Apps** and love building cross-platform apps with **Flutter**.</p>
-
-<h4 align="left">Skills & Technologies:</h4>
+<h3 align="left">Skills & Technologies:</h3>
 <p><strong>Programming Languages:</strong> C, C#, Java</p>
 <p><strong>Web Development:</strong> MERN Stack (MongoDB, Express.js, React, Node.js)</p>
 <p><strong>Mobile Development:</strong> Flutter, Dart</p>
 <p><strong>Databases:</strong> SQL, MongoDB</p>
 
-<p>- 👨‍💻 All of my projects are available at [my portfolio](https://linktr.ee/devmukh).</p>
+<p>- 👨‍💻 All of my projects are available at <a href="https://linktr.ee/devmukh">my portfolio</a>.</p>
 <p>- 📫 How to reach me: <a href="mailto:ameermukhtar998@gmail.com">ameermukhtar998@gmail.com</a></p>
 
 <h3 align="left">Notable Projects:</h3>
 <ul>
-    <li>**Cloud-based POS System**: A comprehensive point-of-sale system designed for small retailers, utilizing **Node.js** for backend, **Flutter** for mobile development, and **Firebase** for real-time data storage.</li>
-    <li>**Local Storage Persistent Application**: A mobile application using **Flutter** that allows users to save data locally with **Firebase** integration for cloud backup.</li>
-    <li>**Route Optimization Algorithms**: Implementing algorithms to optimize delivery routes for logistics, improving efficiency and reducing costs, using **Dart** for algorithm development.</li>
+    <li><strong>Cloud-based POS System</strong>: A comprehensive point-of-sale system designed for small retailers, utilizing <strong>Node.js</strong> for backend, <strong>Flutter</strong> for mobile development, and <strong>Firebase</strong> for real-time data storage.</li>
+    <li><strong>Local Storage Persistent Application</strong>: A mobile application using <strong>Flutter</strong> that allows users to save data locally with <strong>Firebase</strong> integration for cloud backup.</li>
+    <li><strong>Route Optimization Algorithms</strong>: Implementing algorithms to optimize delivery routes for logistics, improving efficiency and reducing costs, using <strong>Dart</strong> for algorithm development.</li>
 </ul>
 
 <h3 align="left">Badges:</h3>
