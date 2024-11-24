@@ -51,9 +51,9 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmukh&show_icons=true&locale=en&layout=compact" alt="devmukh" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmukh&show_icons=true&locale=en" alt="devmukh" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmukh&" alt="devmukh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meermukhtar&show_icons=true&locale=en&layout=compact" alt="meermukhtar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meermukhtar&show_icons=true&locale=en" alt="meermukhtar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meermukhtar&" alt="meermukhtar" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
