@@ -7,12 +7,13 @@
 <p>- 📱 I specialize in <strong>Mobile Application Development</strong> with <strong>Flutter</strong> and <strong>Firebase</strong> for cloud-based solutions.</p>
 <p>- 💻 I develop <strong>Web Applications</strong> using the <strong>MERN Stack</strong> (MongoDB, Express.js, React, Node.js).</p>
 <p>- 🧑‍💻 I have experience with <strong>Hybrid Apps</strong> and love building cross-platform apps with <strong>Flutter</strong>.</p>
+<p>- ⚙️ Additionally, I am working with <strong>Django</strong> to build <strong>RESTful APIs</strong> backed by <strong>PostgreSQL</strong>, and developing <strong>native mobile applications</strong> using <strong>React Native</strong>.</p>
 
 <h3 align="left">Skills & Technologies:</h3>
-<p><strong>Programming Languages:</strong> C, C#, Java</p>
-<p><strong>Web Development:</strong> MERN Stack (MongoDB, Express.js, React, Node.js)</p>
-<p><strong>Mobile Development:</strong> Flutter, Dart</p>
-<p><strong>Databases:</strong> SQL, MongoDB</p>
+<p><strong>Programming Languages:</strong> C, C#, Java, Python</p>
+<p><strong>Web Development:</strong> MERN Stack (MongoDB, Express.js, React, Node.js), Django REST Framework</p>
+<p><strong>Mobile Development:</strong> Flutter, Dart, React Native</p>
+<p><strong>Databases:</strong> SQL, PostgreSQL, MongoDB</p>
 
 <p>- 👨‍💻 All of my projects are available at <a href="https://linktr.ee/devmukh">my portfolio</a>.</p>
 <p>- 📫 How to reach me: <a href="mailto:ameermukhtar998@gmail.com">ameermukhtar998@gmail.com</a></p>
@@ -22,6 +23,8 @@
     <li><strong>Cloud-based POS System</strong>: A comprehensive point-of-sale system designed for small retailers, utilizing <strong>Node.js</strong> for backend, <strong>Flutter</strong> for mobile development, and <strong>Firebase</strong> for real-time data storage.</li>
     <li><strong>Local Storage Persistent Application</strong>: A mobile application using <strong>Flutter</strong> that allows users to save data locally with <strong>Firebase</strong> integration for cloud backup.</li>
     <li><strong>Route Optimization Algorithms</strong>: Implementing algorithms to optimize delivery routes for logistics, improving efficiency and reducing costs, using <strong>Dart</strong> for algorithm development.</li>
+    <li><strong>Django REST APIs & PostgreSQL Backend</strong>: Developing scalable RESTful APIs using <strong>Django REST Framework</strong> with a <strong>PostgreSQL</strong> database.</li>
+    <li><strong>Native Mobile Apps</strong>: Building performant native apps using <strong>React Native</strong> to complement my backend services.</li>
 </ul>
 
 <h3 align="left">Badges:</h3>
@@ -37,6 +40,9 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
 <h3 align="left">Programming Languages & Proficiency:</h3>
@@ -48,6 +54,9 @@
   <img src="https://img.shields.io/badge/Dart-Intermediate-00B4AB?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/Node.js-Advanced-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Firebase-Advanced-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Django-Intermediate-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/React_Native-Intermediate-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
